@@ -572,6 +572,8 @@ font-size:28px;
 
     transition:.3s;
 
+    text-decoration: none;
+
 }
 
 .footer-redes a:hover{
@@ -874,11 +876,10 @@ font-size:28px;
 .footer-redes{
 
     justify-content:center;
-    text-decoration: none;
+
 
 }
-.footer-redes a{
-    text-decoration: none;
+
 }
 
 /*==================================================
