@@ -19,7 +19,8 @@ body{
     width:100%;
     margin:auto;
     background:white;
-    border-radius:10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
     overflow:hidden;
 }
 
