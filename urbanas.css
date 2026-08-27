@@ -874,9 +874,11 @@ font-size:28px;
 .footer-redes{
 
     justify-content:center;
+    text-decoration: none;
 
 }
-
+.footer-redes a{
+    text-decoration: none;
 }
 
 /*==================================================
