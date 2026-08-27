@@ -467,6 +467,10 @@ section{
   box-shadow:0 2px 12px rgba(0,0,0,0.08);
 }
 
+.hero {
+  border-radius: 0 !important;
+}
+
 /* títulos de sección */
 section h2{
   font-size:32px;
