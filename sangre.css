@@ -681,6 +681,8 @@ body{
     font-size:18px;
 
     transition:.3s;
+    
+    text-decoration: none;
 
 }
 
