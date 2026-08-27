@@ -587,6 +587,8 @@ body{
 
     transition:.3s;
 
+    text-decoration: none;
+
 }
 
 .footer-redes a:hover{
