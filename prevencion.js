@@ -26,9 +26,9 @@ consejosTexto: "Recomendaciones para estar preparado ante cualquier emergencia."
 verInformacion: "Ver información",
 
 // PRIMEROS AUXILIOS
-rcp: "❤️ Reanimación Cardiopulmonar (RCP)",
-atencionBasica: "🩹 Atención Básica",
-recomendaciones: "💡 Recomendaciones",
+rcp: " Reanimación Cardiopulmonar (RCP)",
+atencionBasica: " Atención Básica",
+recomendaciones: " Recomendaciones",
 
 pulso: "Verificar el pulso.",
 compresiones: "Si no hay pulso, iniciar compresiones en el pecho.",
@@ -144,9 +144,9 @@ consejosTexto: "Recommendations to stay prepared for any emergency.",
 verInformacion: "View Information",
 
 // FIRST AID
-rcp: "❤️ Cardiopulmonary Resuscitation (CPR)",
-atencionBasica: "🩹 Basic Care",
-recomendaciones: "💡 Recommendations",
+rcp: " Cardiopulmonary Resuscitation (CPR)",
+atencionBasica: " Basic Care",
+recomendaciones: " Recommendations",
 
 pulso: "Check for a pulse.",
 compresiones: "If there is no pulse, begin chest compressions.",
