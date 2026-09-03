@@ -1209,7 +1209,7 @@ body{
     margin-bottom:12px;
 
     transition:.3s;
-
+    text-decoration:none;
 }
 
 .footer-box a:hover{
