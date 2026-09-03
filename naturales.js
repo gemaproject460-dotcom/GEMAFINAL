@@ -328,21 +328,21 @@ footerDerechos:"© 2026 GEMA | Global Emergency Management Access. Todos los der
 
    gemaTitulo: "GEMA",
 
-gemaDescripcion: "Global Emergency Management Access. Promoviendo la preparación, prevención y respuesta ante emergencias para toda la comunidad.",
+gemaDescripcion: "Global Emergency Management Access. Promoting preparedness, prevention and emergency response for the entire community.",
 
-footerEnlaces: "Enlaces",
+footerEnlaces: "Links",
 
-footerContacto: "Contacto",
+footerContacto: "Contact",
 
-footerSiguenos: "Síguenos",
+footerSiguenos: "Follow us",
 
-telefono: "Teléfono: +507 6000-0000",
+telefono: "Phone: +507 6000-0000",
 
-panama: "Panamá",
+panama: "Panama",
 
-footerDerechos: "© 2026 GEMA | Global Emergency Management Access. Todos los derechos reservados.",
+footerDerechos: "© 2026 GEMA | Global Emergency Management Access.  All rights reserved.",
 
-mapaInteractivo: "Mapa Interactivo",
+mapaInteractivo: "Interactive Map",
 
 
 
