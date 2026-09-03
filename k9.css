@@ -1618,6 +1618,312 @@ section{
 
 
 
+
+/* =====================================================
+   RESPONSIVE DEL NAV - CELULAR
+   ===================================================== */
+
+@media (max-width: 700px){
+
+    /* =========================
+       HEADER
+       ========================= */
+
+    .header{
+        padding:12px 15px;
+
+        display:flex;
+        flex-wrap:wrap;
+
+        justify-content:center;
+        align-items:center;
+
+        gap:10px;
+    }
+
+
+    /* =========================
+       LOGO
+       ========================= */
+
+    .logo-box{
+        width:100%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    }
+
+    .logo-box img{
+        width:60px;
+        height:60px;
+    }
+
+    .logo-texto h1{
+        font-size:32px;
+    }
+
+    .logo-texto p{
+        font-size:10px;
+    }
+
+
+    /* =========================
+       NAV PRINCIPAL
+       ========================= */
+
+    .navbar{
+        width:100%;
+
+        padding:10px 15px;
+
+        display:grid;
+
+        grid-template-columns:1fr 1fr 1fr;
+
+        align-items:center;
+        justify-items:center;
+
+        gap:0;
+
+        border-radius:10px;
+    }
+
+
+    /* =========================
+       ENLACES
+       ========================= */
+
+    .navbar > a{
+        color:#fff;
+
+        text-decoration:none;
+
+        font-size:16px;
+
+        font-weight:bold;
+
+        padding:6px 8px;
+
+        white-space:nowrap;
+
+        transition:.3s;
+    }
+
+
+    /* =========================
+       INICIO
+       ========================= */
+
+    .navbar > a:nth-child(1){
+        grid-column:1;
+        grid-row:1;
+    }
+
+
+    /* =========================
+       GEMAS
+       ========================= */
+
+    .navbar > .dropdown{
+        grid-column:2;
+        grid-row:1;
+
+        position:relative;
+    }
+
+    .navbar .dropbtn{
+        color:#fff;
+
+        background:none;
+
+        border:none;
+
+        font-size:16px;
+
+        font-weight:bold;
+
+        padding:6px 8px;
+
+        white-space:nowrap;
+
+        cursor:pointer;
+    }
+
+
+    /* =========================
+       DONACIONES
+       ========================= */
+
+    .navbar > a:nth-child(3){
+        grid-column:3;
+        grid-row:1;
+    }
+
+
+    /* =========================
+       SEGUNDA FILA
+       K-9
+       ========================= */
+
+    .navbar > a:nth-child(4){
+        grid-column:1;
+        grid-row:2;
+
+        margin-top:4px;
+    }
+
+
+    /* =========================
+       ICONOS
+       ========================= */
+
+    .navbar .icons{
+        grid-column:2;
+        grid-row:2;
+
+        display:flex;
+
+        align-items:center;
+
+        justify-content:flex-start;
+
+        gap:16px;
+
+        font-size:20px;
+
+        margin-top:4px;
+    }
+
+    .navbar .icons i{
+        font-size:20px;
+    }
+
+
+    /* =========================
+       MENÚ DE GEMAS
+       ========================= */
+
+    .dropdown-content{
+        top:100%;
+
+        left:50%;
+
+        transform:translateX(-50%);
+
+        min-width:200px;
+
+        z-index:9999;
+    }
+
+
+    /* =========================
+       MENÚ DE IDIOMA
+       ========================= */
+
+    .dropdown-menu{
+        top:100%;
+
+        left:50%;
+
+        transform:translateX(-50%);
+
+        min-width:140px;
+
+        z-index:9999;
+    }
+}
+
+
+/* =====================================================
+   CELULARES PEQUEÑOS
+   ===================================================== */
+
+@media (max-width: 500px){
+
+    /* HEADER */
+
+    .header{
+        padding:10px;
+    }
+
+
+    /* LOGO */
+
+    .logo-box img{
+        width:52px;
+        height:52px;
+    }
+
+    .logo-texto h1{
+        font-size:28px;
+    }
+
+    .logo-texto p{
+        font-size:9px;
+    }
+
+
+    /* NAV */
+
+    .navbar{
+        padding:10px;
+
+        grid-template-columns:1fr 1fr 1fr;
+    }
+
+
+    /* ENLACES */
+
+    .navbar > a{
+        font-size:14px;
+
+        padding:6px 5px;
+    }
+
+
+    /* GEMAS */
+
+    .navbar .dropbtn{
+        font-size:14px;
+
+        padding:6px 5px;
+    }
+
+
+    /* K-9 */
+
+    .navbar > a:nth-child(4){
+        margin-top:3px;
+    }
+
+
+    /* ICONOS */
+
+    .navbar .icons{
+        gap:16px;
+
+        font-size:19px;
+
+        margin-top:3px;
+    }
+
+    .navbar .icons i{
+        font-size:19px;
+    }
+
+
+    /* MENÚS */
+
+    .dropdown-content{
+        min-width:190px;
+    }
+
+    .dropdown-menu{
+        min-width:140px;
+    }
+}
+
 /* ==========================================
    ALINEAR BOTONES DE INSTITUCIONES
 ========================================== */
