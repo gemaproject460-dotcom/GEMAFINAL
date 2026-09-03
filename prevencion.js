@@ -121,7 +121,7 @@ salvarVidas: "Estar preparado puede salvar vidas.",
      en: {
        // NAVBAR
         inicio: "Home",
-        gemas: "Gemas",
+        gemas: "Gems",
         informacion: "Information",
         ninos: "Kids",
         capacitaciones: "Training",
