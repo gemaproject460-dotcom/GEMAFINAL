@@ -176,7 +176,7 @@ footerDerechos:"© 2026 GEMA | Global Emergency Management Access. Todos los der
         // NAVBAR
         // =========================
         inicio: "Home",
-        gemas: "GEMAS",
+        gemas: "Gems",
         informacion: "Information",
         ninos: "Kids",
         capacitaciones: "Training",
