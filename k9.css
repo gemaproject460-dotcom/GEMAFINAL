@@ -1615,3 +1615,25 @@ section{
 }
 
 }
+
+
+
+/* ==========================================
+   ALINEAR BOTONES DE INSTITUCIONES
+========================================== */
+
+.institucion {
+    display: flex;
+    flex-direction: column;
+}
+
+.institucion .contenido {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.institucion .contenido .btn {
+    margin-top: auto;
+    align-self: flex-start;
+}
