@@ -64,7 +64,7 @@ errores: "Evaluar errores al finalizar.",
 simulacrosPeriodicos: "Realizar simulacros periódicamente.",
 salidas: "Mantener libres las salidas.",
 planFamiliar: "Tener un plan familiar.",
-capacitaciones: "Participar en capacitaciones.",
+capacitaciones: "Capacitaciones",
 
 // PREPARACIÓN FAMILIAR
 planTitulo: "Plan Familiar",
@@ -182,7 +182,7 @@ errores: "Evaluate mistakes afterward.",
 simulacrosPeriodicos: "Practice drills regularly.",
 salidas: "Keep exits clear.",
 planFamiliar: "Have a family emergency plan.",
-capacitaciones: "Attend emergency training.",
+capacitaciones: "Training",
 
 // FAMILY PREPAREDNESS
 planTitulo: "Family Plan",
