@@ -190,7 +190,7 @@ footerDerechos:"© 2026 GEMA | Global Emergency Management Access. Todos los der
 en:{
 
 inicio:"Home",
-gemas:"GEMA",
+gemas:"Gems",
 informacion:"Information",
 ninos:"Kids",
 capacitaciones:"Training",
